@@ -11,7 +11,7 @@ function Header(props) {
 		<header className={props.type}>
 			<h1>
 				<NavLink activeStyle={active} exact to='/'>
-					LOGO
+					LOGO TEST!!
 				</NavLink>
 			</h1>
 
